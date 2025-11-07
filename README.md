@@ -11,9 +11,9 @@ Calculadora com interface gráfica desenvolvida em Java Swing que realiza opera�
 
 Este projeto é uma **calculadora desktop desenvolvida em Java (Swing)** com as principais operações matemáticas:
 - Adição (`+`) 
-- Subtração (`-`)
-  - Multiplicação (`*`)
- - Divisão (`/`) 
+- Subtração (`-`) 
+- Multiplicação (`*`) 
+- Divisão (`/`) 
 - Raiz quadrada (`√`) 
 
 A interface foi criada utilizando o **NetBeans**, e o código é totalmente comentado e estruturado, servindo como **exemplo didático** de programação orientada a objetos e manipulação de eventos em Java.  
