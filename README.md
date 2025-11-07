@@ -2,11 +2,12 @@
 Calculadora com interface gráfica desenvolvida em Java Swing que realiza operações matemáticas básicas (soma, subtração, multiplicação, divisão e raiz quadrada).
 # 🧮 Calculadora Java Swing
 
-!(https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 
-!(https://img.shields.io/badge/Swing-GUI-green?style=for-the-badge)  
+![Swing](https://img.shields.io/badge/Swing-GUI-green?style=for-the-badge)  
 
-!(https://img.shields.io/badge/license-MIT-blue?style=for-the-badge) 
+![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)   
+
 
 ## 📖 Sobre o projeto
 
