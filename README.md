@@ -71,7 +71,7 @@ C	Limpa todos os valores e reseta o visor
 
 🖼️ Interface da Calculadora
 
-![Calculadora](https://C:\Users\ecsousa\Documents\Projetos\Calculadora\imagem/calculadora.png) 
+![Calculadora](https://C:/Users/ecsousa/Documents/Projetos/Calculadora/imagem/calculadora.png) 
 
 📜 Licença
 Este projeto é licenciado sob os termos da MIT License.
