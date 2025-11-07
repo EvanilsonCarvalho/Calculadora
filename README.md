@@ -34,7 +34,7 @@ Calculadora/
 │ └── br/com/calculadora/tela/  
 │ └── TelaCalculadora.java  
 │ └── Classes/Main  
-│ └──icones/calc.jpg 
+│ └──icones/calc.jpg  
 ├── README.md  
 ├── LICENSE  
 └── .gitignore  
@@ -64,9 +64,9 @@ Calculadora/
 
 	. Execute TelaCalculadora.java  
 
-🧩## **Funcionalidades  
+🧩### **Funcionalidades  
  
-<img width="268" height="307" alt="Image" src="https://github.com/user-attachments/assets/63036c30-adda-453a-9ba3-cc79eb63046b" />  
+<img width="690" height="322" alt="Image" src="https://github.com/user-attachments/assets/281f24c7-c6a8-4f45-91a5-e2bbac994bfe" />
 
 💡 ## **Destaques Técnicos  
 
@@ -86,7 +86,7 @@ Este projeto é licenciado sob os termos da MIT License.
 
 Você pode usar, modificar e distribuir livremente, desde que mantenha os créditos ao autor.  
 
-🌐## **Contato  
+🌐### **Contato  
 
 📧 E-mail: evanilsoncarvalho@gmail.com  
 💼 LinkedIn: www.linkedin.com/in/evanilson-carvalho-79b20ab5 
