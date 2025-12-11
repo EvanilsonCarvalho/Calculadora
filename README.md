@@ -6,7 +6,8 @@
 
 ## **📖 Sobre o projeto
 
-Este projeto é uma **calculadora desktop desenvolvida em Java (Swing)** com as principais operações matemáticas:  
+Este é uma atividade realizada durante minha graduação em **Análise e Desenvolvimento de Sistemas**.  
+A atividade consistiu em desenvolver uma **calculadora desktop em Java (Swing)** com as principais operações matemáticas,   
 	- **Adição (`+`)   
 	- **Subtração (`-`)  
 	- **Multiplicação (`*`)  
